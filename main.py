@@ -1,3 +1,4 @@
+#designed by voltako
 import json
 import base64
 import webbrowser
@@ -105,3 +106,4 @@ if __name__ == '__main__':
     #Пример использования
     print(get_Track_Metainfo('https://open.spotify.com/track/04KS4huulIeXs5jjHV2QfE?si=7672f34850ba45e3'))
     print(get_playlist_items("https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61"))
+    
